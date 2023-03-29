@@ -1,0 +1,17 @@
+body { color: purple }
+body { background-color: white }
+
+.picture { 
+    height: 200px;
+    width: 200px;
+}
+
+.about-me {
+height: 650px;
+}
+
+header nav ul {
+display: flex;
+list-style: none;
+
+}
