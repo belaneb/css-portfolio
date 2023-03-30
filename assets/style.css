@@ -1,6 +1,7 @@
 body {
     color: purple;
     background-color: white;
+    width: 100%
 }
 
 .picture { 
@@ -9,7 +10,7 @@ body {
 }
 
 .about-me {
-    height: 650px;
+    height: 200px;
 }
 
 header nav ul {
@@ -57,3 +58,11 @@ header nav ul {
 #contact-me1 {
     padding: 1em
 }
+
+img {
+
+    height: auto;
+  
+    max-width: 100%;
+  
+  }
