@@ -1,5 +1,7 @@
-body { color: purple }
-body { background-color: white }
+body {
+    color: purple;
+    background-color: white;
+}
 
 .picture { 
     height: 200px;
@@ -7,11 +9,51 @@ body { background-color: white }
 }
 
 .about-me {
-height: 650px;
+    height: 650px;
 }
 
 header nav ul {
-display: flex;
-list-style: none;
+    display: flex;
+    list-style: none;
 
+}
+
+#large-image {
+    height: 500px;
+    width: 500px;
+}
+
+.contact-me ul {
+    display: flex;
+    list-style: none;
+}
+
+#contact-1 {
+    padding: 1em
+}
+
+#contact-2 {
+    padding: 1em
+}
+
+#contact-3 {
+    padding: 1em
+}
+
+#contact-4 {
+    padding: 1em
+}
+
+#contact-5 {
+    padding: 1em
+}
+
+#about-me1 {
+    padding: 1em
+}
+#my-work1 {
+    padding: 1em
+}
+#contact-me1 {
+    padding: 1em
 }
